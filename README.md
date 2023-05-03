@@ -1,16 +1,18 @@
 # calculator_app
 
-A new Flutter project.
+The app Features the Basic Mathemtical Functionalities including:
+1. Addition
+2. Multiplication
+3. Subtraction
 
-## Getting Started
+# File Structures
 
-This project is a starting point for a Flutter application.
+There are 3 Files in the Lib Folder 
 
-A few resources to get you started if this is your first Flutter project:
+A. calculate.dart (Includes the calculation logic)
+B. calculator_screen.dart (Includes all of the UI / Widget Tree of the App)
+C. main.dart (The Entry point of the App)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There is one file in test Folder
+A. widget_test.dart (Inlcudes the whole testing group of Calculator App)
